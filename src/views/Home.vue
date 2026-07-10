@@ -26,7 +26,7 @@ import { useSEO } from "../composables/useSEO"
 import { siteConfig } from "../config/site"
 
 useSEO({
-  title: "Black Eagle Tech - Desarrollo Web",
+  title: "Mocens Labs - Desarrollo Web",
   description: "Landing pages, ecommerce y soporte técnico remoto",
   url: siteConfig.url
 })

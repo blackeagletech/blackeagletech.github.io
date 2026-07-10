@@ -6,10 +6,10 @@ import DiscordIcon from "@/assets/icons/DiscordIcon.vue"
 import TelegramIcon from "@/assets/icons/TelegramIcon.vue"
 
 export const socials = [
-  { id: "github", icon: GithubIcon, url: "https://github.com/blackeagletech" },
-  { id: "instagram", icon: InstagramIcon, url: "https://instagram.com/blacke.dev" },
+  { id: "github", icon: GithubIcon, url: "https://github.com/mocenslabs" },
+  { id: "instagram", icon: InstagramIcon, url: "https://instagram.com/mocens.labs" },
   { id: "facebook", icon: FacebookIcon, url: "https://facebook.com/mauro.vicens" },
-  { id: "threads", icon: ThreadsIcon, url: "https://threads.net/@blacke.dev" },
-  { id: "discord", icon: DiscordIcon, url: "https://discord.com/users/blackeagledhs" },
-  { id: "telegram", icon: TelegramIcon, url: "https://t.me/Black_Eagle_DHS" }
+  { id: "threads", icon: ThreadsIcon, url: "https://threads.net/@mocens.labs" },
+  { id: "discord", icon: DiscordIcon, url: "https://discord.com/users/mocenslabs" },
+  { id: "telegram", icon: TelegramIcon, url: "https://t.me/mocenslabs" }
 ]

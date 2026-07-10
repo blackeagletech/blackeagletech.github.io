@@ -7,7 +7,7 @@
       <div class="flex items-center gap-2">
         <img src="/logo2.png" class="w-10" />
         <span class="text-primary font-bold tracking-wide">
-          BLACK EAGLE TECH
+          MOCENS LABS
         </span>
       </div>
 
@@ -28,7 +28,7 @@
         >
           WhatsApp
         </a>
-        
+
       </div>
 
       <!-- MOBILE BUTTON -->
